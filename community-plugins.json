@@ -39723,5 +39723,12 @@
     "author": "HyoYoonNam",
     "description": "Search books through the Aladin open API, generate notes with cover images and metadata, and browse your library in a card gallery view. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "hyoyoonnam/digital-archive"
+  },
+  {
+    "id": "mathify-notes",
+    "name": "Mathify Notes",
+    "author": "Science Note Taker",
+    "description": "Intuitively formats chemical formulas (H2O, Ca(OH)2, ions), nested fractions, powers, variables, and math symbols.",
+    "repo": "katananananna/obsidian-mathify-notes"
   }
 ]
