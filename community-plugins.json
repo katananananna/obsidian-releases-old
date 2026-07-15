@@ -39797,7 +39797,7 @@
   {
     "id": "mathify-notes",
     "name": "Mathify Notes",
-    "author": "Science Note Taker",
+    "author": "katana",
     "description": "Auto-formats chemical formulas, nested fractions, powers, variables, and math symbols instantly as you type. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "katananananna/obsidian-mathify-notes"
   },
