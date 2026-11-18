@@ -73757,5 +73757,12 @@
     "author": "methun-mohan",
     "description": "Organize Markdown checkbox tasks by note across four lanes, with a manual task queue. No runtime dependencies. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "methun-mohan/wheelhouse-task-view"
+  },
+  {
+    "id": "highlight-annotations",
+    "name": "Highlight Annotations",
+    "author": "katananananna",
+    "description": "Highlight any text in notes and attach several notes to each passage. Clean popover, sidebar and export.",
+    "repo": "katananananna/highlight-annotations"
   }
 ]
